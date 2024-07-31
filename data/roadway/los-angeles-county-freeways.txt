@@ -1,0 +1,41 @@
+========================================================================
+ Los Angeles County Freeways
+------------------------------------------------------------------------
+ https://koordinates.com/layer/96008-los-angeles-county-freeways/
+========================================================================
+From: Los Angeles County, California
+
+Description:
+  This dataset is the primary transportation layer output from the CAMS
+  application and database. This file is a street centerline network in
+  development by Los Angeles County to move toward a public domain street
+  centerline and addess file. This dataset can be used for two purposes:Geocoding
+  addresses in LA County – this file currently geocodes > 99.5% of the addresses
+  in our test files (5,000 out of 8 million addresses) using the County’s
+  geocoding engines.This last statement is important – the County splits the
+  street names and addresses differently than most geocoders. This means that you
+  cannot just use this dataset with the standard ESRI geocoding (US Streets)
+  engine. 
+  
+  
+  © US Census Bureau, TIGER, LA County, RRCC
+
+Region: Los Angeles County
+
+CRS: WGS 84 / Pseudo-Mercator
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 05 Sep 2018
+- updated with new data on 21 Jun 2019
+- clipped to (34.821°N 118.885°W)-(33.746°N 117.692°W)
+- converted by Koordinates to Shapefile on 15 Jul 2024 (reference #3549438)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
