@@ -19,12 +19,13 @@ The repository is organized as follows:
 
 The main scripts and their purposes are:
 
-- `data_processing.py`: Script for cleaning and preprocessing the datasets.
-- `analysis.py`: Performs the statistical analysis and modeling.
-- `visualization.py`: Generates visualizations used in the dissertation.
-- `simulation.py`: Runs simulations of air quality under different scenarios.
+- `convert.py`: Script for processing and clean the dataset.
+- `road.py`: Plot the Los Angeles County with major roadways.
+- `pm2.5.py`: Plot the distribution of pm2.5 data and traffic-related factors.
+- `socio_econo.py`: Mapping the distribution of the socioeconomic indicators.
+- `commute_mode.py`: Mapping the distribution of the commute mode indicatros.
+- `correlation_comparative.py`: Analysis for the correlation and plot the results.
+- `comparative_analysis.py`: Comparative analysis and plot the resutls.
+- `simulation.py`: Code for the simulation and visualization of it.
+- `commute_simulation.py`: Code for the visualize the simulation outputs.
 
-You can run these scripts by navigating to the `code/` directory and using the following command:
-
-```bash
-python script_name.py
