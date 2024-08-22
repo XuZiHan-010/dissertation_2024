@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code, data, tables and figures for my researh. T
+This repository contains the code, data, tables and figures for my researh. The project structure introduces the strucutre of the project and the files under different folders. While the usage part demonstrate what's the function of each script here.
 
 ## Project Structure
 
